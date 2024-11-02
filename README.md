@@ -1,4 +1,7 @@
-## Hi there 👋
+![](https://github.com/Huiwen-Huang/Huiwen-Huang/blob/main/my_intrduction.gif?raw=true)
+
+## Hi👋 I'm Emma!
+I am a front-end engineer. I enjoy learning skills and knowledge related to programming, and I also love writing technical blogs to share what I have learned.
 
 <!--
 **Huiwen-Huang/Huiwen-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
