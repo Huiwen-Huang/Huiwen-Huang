@@ -1,4 +1,3 @@
-![my_introduction](./my_introduction.gif)
 ![github_intro](./github_intro.gif)
 
 ## Hi👋, I'm Emma!
