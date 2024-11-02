@@ -1,19 +1,25 @@
 ![my_introduction](./my_introduction.gif)
+![my_introduction](./github_intro.gif)
 
-## Hi👋 I'm Emma!
+## Hi👋, I'm Emma!
 I am a front-end engineer. I enjoy learning skills and knowledge related to programming, and I also love writing technical blogs to share what I have learned.
 
-<!--
-**Huiwen-Huang/Huiwen-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📎 Connect with me
+- [Personal Website](https://Huiwen-Huang.github.io/)
+- [Blog](https://Huiwen-Huang.github.io/blog/)
 
-Here are some ideas to get you started:
+## 💡 My Skill Set
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Languages and Frameworks
+- HTML5, CSS3, SCSS
+- JavaScript, jQuery
+- Bootstrap, Material UI
+- Chart.js, Google Chart, Jspreadsheet
+- Vue, Vuex, Vue-Router
+- React, Redux, Redux-saga, React-Router
+- C++, Python
+
+### 🔧 Tools
+- Version Control (Git, Git-Flow)
+- Web Front-end (VS Code, Figma)
+- Multimedia (Unity, Maya, Adobe Premiere)
