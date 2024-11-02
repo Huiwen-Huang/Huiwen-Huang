@@ -1,3 +1,4 @@
+![my_introduction](./my_introduction.gif)
 ![my_introduction](./github_intro.gif)
 
 ## Hi👋, I'm Emma!
