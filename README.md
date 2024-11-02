@@ -1,5 +1,5 @@
 ![my_introduction](./my_introduction.gif)
-![my_introduction](./github_intro.gif)
+![github_intro](./github_intro.gif)
 
 ## Hi👋, I'm Emma!
 I am a front-end engineer. I enjoy learning skills and knowledge related to programming, and I also love writing technical blogs to share what I have learned.
